@@ -1,0 +1,114 @@
+{
+    "Employees": [
+        {
+            "userId": "oscar",
+            "jobTitleName": "Developer",
+            "firstName": "oscar",
+            "lastName": "Vaquez",
+            "salary": "100000",
+            "employeeCode": "E1",
+            "region": "GA",
+            "phoneNumber": "999-9999",
+            "emailAddress": "ovaquez@gmail.com"
+        },
+        {
+            "userId": "miamigo",
+            "jobTitleName": "Developer",
+            "firstName": "miamigo",
+            "lastName": "Lopez",
+            "salary": "200000",
+            "employeeCode": "E2",
+            "region": "GA",
+            "phoneNumber": "999-9999",
+            "emailAddress": "alopez@gmail.com"
+        },
+        {
+            "userId": "jojo",
+            "jobTitleName": "Developer",
+            "firstName": "jojo",
+            "lastName": "Gonzalez",
+            "salary": "300000",
+            "employeeCode": "E3",
+            "region": "NC",
+            "phoneNumber": "999-9999",
+            "emailAddress": "lgonz@gmail.com"
+        },
+        {
+            "userId": "Craig",
+            "jobTitleName": "Developer",
+            "firstName": "Craig",
+            "lastName": "Contreras",
+            "salary": "400000",
+            "employeeCode": "E4",
+            "region": "TX",
+            "phoneNumber": "999-9999",
+            "emailAddress": "jcont@gmail.com"
+        },
+        {
+            "userId": "thor",
+            "jobTitleName": "Developer",
+            "firstName": "thor",
+            "lastName": "Hardy",
+            "salary": "500000",
+            "employeeCode": "E5",
+            "region": "GA",
+            "phoneNumber": "999-9999",
+            "emailAddress": "hardy@gmail.com"
+        },
+        {
+            "userId": "Beetles",
+            "jobTitleName": "Developer",
+            "firstName": "Beetles",
+            "lastName": "Sun",
+            "salary": "600000",
+            "employeeCode": "E6",
+            "region": "TX",
+            "phoneNumber": "999-9999",
+            "emailAddress": "lsun@gmail.com"
+        },
+        {
+            "userId": "Ford",
+            "jobTitleName": "Developer",
+            "firstName": "Ford F-150",
+            "lastName": "Truck",
+            "salary": "600000",
+            "employeeCode": "E7",
+            "region": "GA",
+            "phoneNumber": "999-9999",
+            "emailAddress": "btruck@gmail.com"
+        },
+        {
+            "userId": "mscott",
+            "jobTitleName": "Developer",
+            "firstName": "mscott paper",
+            "lastName": "Scott",
+            "salary": "600000",
+            "employeeCode": "E8",
+            "region": "GA",
+            "phoneNumber": "999-9999",
+            "emailAddress": "mscott@gmail.com"
+        },
+        {
+            "userId": "dood",
+            "jobTitleName": "Developer",
+            "firstName": "dood",
+            "lastName": "Fich",
+            "salary": "600000",
+            "employeeCode": "E9",
+            "region": "GA",
+            "phoneNumber": "999-9999",
+            "emailAddress": "mfich@gmail.com"
+        },
+        {
+            "userId": "ababababa",
+            "jobTitleName": "Developer",
+            "firstName": "ababababa",
+            "lastName": "Fedley",
+            "salary": "600000",
+            "employeeCode": "E10",
+            "region": "GA",
+            "phoneNumber": "999-9999",
+            "emailAddress": "afedley@gmail.com"
+        }
+    ]
+}
